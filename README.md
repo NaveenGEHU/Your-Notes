@@ -48,13 +48,13 @@ All notes in one site
     <h2>Pricing</h2>
     <p><strong>1 Subject Notes:</strong> ₹49</p>
     <p><strong>Full Semester Pack:</strong> ₹199</p>
-    <p>Payment accepted via UPI: <strong>yourname@upi</strong></p>
-    <p>Send payment and email your receipt to <strong>your@email.com</strong> to get access.</p>
+    <p>Payment accepted via UPI: <strong>naveensn026@oksbi</strong></p>
+    <p>Send payment and email your receipt to <strong>naveensinghnegiwork@email.com</strong> to get access.</p>
   </div>
 
   <div class="card" id="contact">
     <h2>Contact Me</h2>
-    <p>If you need help or have special requests, feel free to email me at <strong>your@email.com</strong> or message me on Instagram at <strong>@yourhandle</strong>.</p>
+    <p>If you need help or have special requests, feel free to email me at <strong>naveensn026@email.com</strong> or message me on Instagram at <strong>@naveen_sn_26</strong>.</p>
   </div>
 </section>
 
